@@ -1,0 +1,38 @@
+Nayra de Souza Leão
+
+#Exercicio Modulo 1
+
+1. Algoritmo Travessia de modo "seguro"
+
+Colocar a cabra no barco;
+Entrar no barco;
+Atravessar o rio de barco;
+Sair do barco ao chegar à margem;
+Deixar a cabra na margem do rio;
+Entrar no barco;
+Atravessar o rio de barco;
+Sair do barco ao chegar à margem;
+Colocar o lobo no barco;
+Entrar no barco;
+Atravessar o rio de barco;
+Sair do barco ao chegar à margem;
+Deixar o lobo na margem do rio;
+Colocar a cabra no barco;
+Entrar no barco;
+Atravessar o rio de barco;
+Sair do barco ao chegar à margem;
+Deixar a cabra na margem do rio;
+Colocar o maço de alfafa no barco;
+Entrar no barco;
+Atravessar o rio de barco;
+Sair do barco ao chegar à margem;
+Deixar o maço de alfafa na margem do rio;
+Entrar no barco;
+Atravessar o rio de barco;
+Sair do barco ao chegar à margem;
+Colocar a cabra no barco;
+Entrar no barco;
+Atravessar o rio de barco;
+Sair do barco ao chegar à margem;
+Tirar a cabra do barco.
+Travessia segura realizada com sucesso!
