@@ -1,0 +1,15 @@
+body {
+  font-family: Cursive;
+}
+
+input,
+button {
+  display: block;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: orange;
+  color: white;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Eventos JS</title>
+  </head>
+  <body>
+    <h1>Média dos Alunos</h1>
+
+    <form id="formulario-media">
+      <fieldset>
+        <legend>Insira as notas abaixo, para obter a média:</legend>        
+
+        <span>1° Nota: </span
+        ><input type="number" name="n1" id="nota1" min="0" max="10" />
+        <span>2° Nota: </span
+        ><input type="number" name="n2" id="nota2" min="0" max="10" />
+        <span>3° Nota: </span
+        ><input type="number" name="n3" id="nota3" min="0" max="10" />
+      </fieldset>
+
+      <!-- <button onclick="obterMedia()">Calcular Média</button> -->
+      <button type="submit">Calcular Média</button>
+    </form>
+
+    <div id="resultado"></div>
+
+    <script type="text/javascript" src="./eventos.js"></script>
+  </body>
+</html>
